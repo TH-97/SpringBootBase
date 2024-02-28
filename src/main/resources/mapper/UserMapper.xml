@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!--mapper interface 에서 값을 반환 받기위해서 지정해두는 경로 -->
+<mapper namespace="com.simple.basic.user.mapper.UserMapper">
+
+</mapper>
